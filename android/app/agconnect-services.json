@@ -1,0 +1,45 @@
+{
+    "agcgw_all": {
+        "CN": "connect-drcn.dbankcloud.cn",
+        "CN_back": "connect-drcn.hispace.hicloud.com",
+        "DE": "connect-dre.dbankcloud.cn",
+        "DE_back": "connect-dre.hispace.hicloud.com",
+        "RU": "connect-drru.hispace.dbankcloud.ru",
+        "RU_back": "connect-drru.hispace.dbankcloud.ru",
+        "SG": "connect-dra.dbankcloud.cn",
+        "SG_back": "connect-dra.hispace.hicloud.com"
+    },
+    "client": {
+        "cp_id": "5190380000022225710",
+        "product_id": "99536292102153245",
+        "client_id": "864649300028703616",
+        "client_secret": "1191B2DA5E3FFB323A0D2E557940347A002A88E59F0A6B7D8729A52F799AF139",
+        "project_id": "99536292102153245",
+        "app_id": "105914409",
+        "api_key": "DAEDAFqQgRHnxkgXa65KlScRT8dzJtcD3V5kKv/AzBGgqr/M51hVjJcbrr4DX6TqWr4sBjTK6CtnNNxD8PkrELEYeq+cydKT9vG5qg==",
+        "package_name": "com.mobile.test"
+    },
+    "oauth_client": {
+        "client_id": "105914409",
+        "client_type": 1
+    },
+    "app_info": {
+        "app_id": "105914409",
+        "package_name": "com.mobile.test"
+    },
+    "configuration_version": "3.0",
+    "appInfos": [{
+        "package_name": "com.mobile.test",
+        "client": {
+            "app_id": "105914409"
+        },
+        "app_info": {
+            "package_name": "com.mobile.test",
+            "app_id": "105914409"
+        },
+        "oauth_client": {
+            "client_type": 1,
+            "client_id": "105914409"
+        }
+    }]
+}
